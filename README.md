@@ -809,23 +809,23 @@ Overall, the Recipe Management  Platform API is a solid example of how to build 
 Any REST client or any internet connected browser (e.g. Postman, Swagger) can be used to interact with the API endpoints. The available endpoints include:
 
 1) User
-- PostMapping -> http://13.48.135.33:8080/User/signup
+- PostMapping -> http://16.16.67.153:8080/User/signup
 
-- PostMapping  -> http://13.48.135.33:8080/User/signIn
+- PostMapping  -> http://16.16.67.153:8080/User/signIn
 
-- DeleteMapping -> http://13.48.135.33:8080/User/signOut
+- DeleteMapping -> http://16.16.67.153:8080/User/signOut
 
 
 <br></br>
 
 2) Recipe
-- GetMapping -> http://13.48.135.33:8080/getallrecipe
+- GetMapping -> http://16.16.67.153:8080/getallrecipe
 
-- GetMapping -> http://13.48.135.33:8080/GetSpecificRecipe/{Id}
+- GetMapping -> http://16.16.67.153:8080/GetSpecificRecipe/{Id}
 
-- DeleteMapping -> http://13.48.135.33:8080/DeleteRecipe/{Id}
+- DeleteMapping -> http://16.16.67.153:8080/DeleteRecipe/{Id}
   
-- PostMapping  -> http://13.48.135.33:8080/AddRecipe
+- PostMapping  -> http://16.16.67.153:8080/AddRecipe
 
 
 <br></br>
