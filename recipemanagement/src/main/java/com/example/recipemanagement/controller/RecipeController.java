@@ -106,10 +106,4 @@ public class RecipeController {
         }
     }
 
-   // @PutMapping("UpdateRecipe/{Id}")
-    //    public String updateRecipe(Integer id , Recipe rec)
-    //    {
-    //        return recipeService.updaterecipebyid(id,rec);
-    //    }
-
 }
