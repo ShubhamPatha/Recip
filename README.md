@@ -830,11 +830,15 @@ Any REST client or any internet connected browser (e.g. Postman, Swagger) can be
 
 <br></br>
 
-3) Comments
-- PostMapping -> http://13.48.135.33:8080/api/v1/comment/postComment
-![PostComment](PostComments.png)
-- GetMapping ->http://13.48.135.33:8080/api/v1/comment/getCommentsById
-![GetComments](GetCommentById.png)
 
- 
+<!-- Headings -->   
+# Author
+SHUBHAM PATHAK
+ <!-- UL -->
+* Twitter <!-- Links -->
+[@ShubhamPathak]( https://twitter.com/Shubham15022000)
+* Github  <!-- Links -->
+[@ShubhamPathak]( https://github.com/ShubhamPatha)
+<!-- Headings -->   
+
 
